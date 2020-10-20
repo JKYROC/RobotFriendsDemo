@@ -1,0 +1,11 @@
+@font-face {  
+    font-family: 'DANCING SCRIPT';  
+    font-style: normal;  
+    font-weight: normal; 
+    src: local('DANCING SCRIPT') url('../DancingScript.ttf'), format('TrueType');
+    }
+h1 {  
+    font-family: 'DANCING SCRIPT'; 
+    font-weight: normal;  
+    color: #404dbe;
+} 
